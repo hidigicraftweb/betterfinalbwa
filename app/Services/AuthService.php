@@ -4,7 +4,7 @@ namespace App\Services;
 
 use App\Repositories\AuthRepository;
 use App\Models\User;
-use Illuminate\Http\Upload\UploadedFile;
+use Illuminate\Http\UploadedFile;
 
 class AuthService
 {
